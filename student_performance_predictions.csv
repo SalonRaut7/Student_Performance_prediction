@@ -1,0 +1,5 @@
+AttendanceRate,StudyHoursPerWeek,PreviousGrade,ParentalSupport,Actual_Category,Predicted_Category
+85,20,76,3,Struggling Student,High Achiever
+91,22,86,3,High Achiever,High Achiever
+85,15,78,3,High Achiever,High Achiever
+82,12,70,1,Struggling Student,Struggling Student
